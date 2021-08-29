@@ -6,4 +6,3 @@ My Azure Resume, following ACG project
 
 - Frontend folder contains the webiste.
 - main.js contains the visitor counter code.
-
