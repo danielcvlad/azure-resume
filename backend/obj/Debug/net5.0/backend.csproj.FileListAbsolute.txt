@@ -1,0 +1,6 @@
+/Users/danvlad/Desktop/azure-resume/backend/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Users/danvlad/Desktop/azure-resume/backend/obj/Debug/net5.0/backend.csproj.AssemblyReference.cache
+/Users/danvlad/Desktop/azure-resume/backend/obj/Debug/net5.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danvlad/Desktop/azure-resume/backend/obj/Debug/net5.0/backend.AssemblyInfoInputs.cache
+/Users/danvlad/Desktop/azure-resume/backend/obj/Debug/net5.0/backend.AssemblyInfo.cs
+/Users/danvlad/Desktop/azure-resume/backend/obj/Debug/net5.0/backend.csproj.CoreCompileInputs.cache
